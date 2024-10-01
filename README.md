@@ -10,17 +10,6 @@ A Rust-based GUI application that fetches and displays the latest game and audio
 - **Cross-Platform Support**: Runs on Windows and Linux (GUI support required).
 - **GUI Built with `eframe` and `egui`**: Provides a simple and intuitive user interface.
 
+## Downloads
 
-## Installation
-
-### Prerequisites
-
-- **Rust**: Ensure you have Rust installed. If not, install it from [rust-lang.org](https://www.rust-lang.org/tools/install).
-
-### Building from Source
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/yourusername/genshin_package_scanner.git
-   cd genshin_package_scanner
+You can download the latest compiled binaries from the [Releases](https://github.com/Zellith/genshin-api-scanner/releases) page.
