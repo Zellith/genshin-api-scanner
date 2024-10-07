@@ -1,6 +1,6 @@
 [package]
 name = "genshin_package_scanner"
-version = "0.1.0"
+version = "0.2.0"
 edition = "2021"
 
 [dependencies]
@@ -9,6 +9,8 @@ egui = "0.22"
 reqwest = { version = "0.11", features = ["json", "rustls-tls", "blocking"] }
 serde = { version = "1.0", features = ["derive"] }
 serde_json = "1.0"
+log = "0.4"
+env_logger = "0.9"
 
 [target.'cfg(windows)'.dependencies.winapi]
 version = "0.3"
